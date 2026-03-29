@@ -1,0 +1,67 @@
+[
+  {
+    "date": "2026-03-29",
+    "start": "08:30",
+    "end": "09:30",
+    "title": "A-Cashier",
+    "notes": "",
+    "uid": "2026-03-29-A-Cashier@effiplan-html"
+  },
+  {
+    "date": "2026-03-29",
+    "start": "09:30",
+    "end": "14:30",
+    "title": "V-Negozio",
+    "notes": "",
+    "uid": "2026-03-29-V-Negozio@effiplan-html"
+  },
+  {
+    "date": "2026-03-31",
+    "start": "08:30",
+    "end": "13:30",
+    "title": "A-Cashier",
+    "notes": "",
+    "uid": "2026-03-31-A-Cashier@effiplan-html"
+  },
+  {
+    "date": "2026-03-31",
+    "start": "13:30",
+    "end": "14:30",
+    "title": "V-Negozio",
+    "notes": "",
+    "uid": "2026-03-31-V-Negozio@effiplan-html"
+  },
+  {
+    "date": "2026-04-01",
+    "start": "20:00",
+    "end": "02:00",
+    "title": "TRASLOCO",
+    "notes": "tag",
+    "uid": "2026-04-01-TRASLOCO@effiplan-html"
+  },
+  {
+    "date": "2026-04-03",
+    "start": "14:15",
+    "end": "15:15",
+    "title": "V-Negozio",
+    "notes": "",
+    "uid": "2026-04-03-V-Negozio@effiplan-html"
+  },
+  {
+    "date": "2026-04-03",
+    "start": "15:15",
+    "end": "20:15",
+    "title": "A-Cashier",
+    "notes": "",
+    "uid": "2026-04-03-A-Cashier@effiplan-html"
+  },
+  {
+    "date": "2026-04-04",
+    "end_date": "2026-04-05",
+    "start": null,
+    "end": null,
+    "title": "INDISPO",
+    "notes": "",
+    "uid": "2026-04-04-INDISPO@effiplan-html"
+  }
+]
