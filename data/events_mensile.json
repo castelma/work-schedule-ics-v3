@@ -530,6 +530,80 @@
     "uid": "2026-05-31-13:30-V-Negozio@effiplan-pdf"
   },
   {
+    "date": "2026-06-02",
+    "start": "09:00",
+    "end": "10:00",
+    "title": "R-General",
+    "notes": "Attribuzione : R-General (R-01001162) | Luogo : General Services (01001162) | Attività/Qualif. : Scarico (R)",
+    "uid": "2026-06-02-09:00-R-General@effiplan-pdf"
+  },
+  {
+    "date": "2026-06-02",
+    "start": "10:00",
+    "end": "15:00",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-06-02-10:00-V-Negozio@effiplan-pdf"
+  },
+  {
+    "date": "2026-06-04",
+    "start": "14:15",
+    "end": "15:15",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-06-04-14:15-V-Negozio@effiplan-pdf"
+  },
+  {
+    "date": "2026-06-04",
+    "start": "15:15",
+    "end": "20:15",
+    "title": "A-Cashier",
+    "notes": "Attribuzione : A-Cashier (A-02001162) | Luogo : Cashier Services (02001162) | Attività/Qualif. : Accoglienza (A)",
+    "uid": "2026-06-04-15:15-A-Cashier@effiplan-pdf"
+  },
+  {
+    "date": "2026-06-06",
+    "start": "08:30",
+    "end": "13:30",
+    "title": "A-Cashier",
+    "notes": "Attribuzione : A-Cashier (A-02001162) | Luogo : Cashier Services (02001162) | Attività/Qualif. : Accoglienza (A)",
+    "uid": "2026-06-06-08:30-A-Cashier@effiplan-pdf"
+  },
+  {
+    "date": "2026-06-06",
+    "start": "13:30",
+    "end": "14:30",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-06-06-13:30-V-Negozio@effiplan-pdf"
+  },
+  {
+    "date": "2026-06-10",
+    "start": "14:00",
+    "end": "15:00",
+    "title": "COL (COLLOQUIO)",
+    "notes": "(COLLOQUIO) COLLOQUIO (14:00 - 15:00) | Orario: 14:00 - 15:00",
+    "uid": "2026-06-10-14:00-COL_(COLLOQUIO)@effiplan-pdf"
+  },
+  {
+    "date": "2026-06-27",
+    "end_date": "2026-06-28",
+    "start": null,
+    "end": null,
+    "title": "? RicIndis (INDISPO)",
+    "notes": "Richiesta in attesa (INDISPO)",
+    "uid": "2026-06-27-allday-?_RicIndis_(INDISPO)@effiplan-pdf"
+  },
+  {
+    "date": "2026-06-29",
+    "end_date": "2026-07-01",
+    "start": null,
+    "end": null,
+    "title": "Abs. (FERIE)",
+    "notes": "(FERIE) FERIE",
+    "uid": "2026-06-29-allday-Abs._(FERIE)@effiplan-pdf"
+  },
+  {
     "date": "2026-07-01",
     "end_date": "2026-07-04",
     "start": null,
